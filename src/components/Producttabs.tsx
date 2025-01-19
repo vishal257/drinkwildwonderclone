@@ -1,7 +1,7 @@
 import { useState } from "react";
 import organic from "../assets/img/products/benefits/organic.png";
 import probiotic from "../assets/img/products/benefits/probiotic.png";
-import fiber from "../assets/img/products/benefits/fiber.png";
+import fiber from "../assets/img/products/benefits/Fiber.png";
 import sugar from "../assets/img/products/benefits/sugar.png";
 import gmo from "../assets/img/products/benefits/gmo.png";
 import vegan from "../assets/img/products/benefits/vegan.png";
