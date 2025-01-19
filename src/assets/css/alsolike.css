@@ -1,0 +1,54 @@
+.carousel-container{
+  background-color: #FACAD1;
+  height: 110dvh;
+}
+
+.icon-wave{
+  color: #FACAD1;
+}
+
+.carousel-slider{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #FACAD1;
+
+  }
+
+.slick-dots li button::before{
+  font-size: 10px;
+}
+
+.slick-dots{
+  position: relative;
+}
+
+.slick-prev::before, .slick-next::before{
+  position: absolute;
+  font-size: 40px;
+}
+
+.slick-next::before{
+  position: absolute;
+  right: 5px;
+}
+.slick-prev::before{
+  position: absolute;
+  left: 5px;
+}
+  
+.carousel-item img {
+    border-radius: 20px;
+    border: solid 1px black;
+    height: 30%;
+    width: 85%;
+  }
+  
+  button {
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #2563eb;
+  }
+  

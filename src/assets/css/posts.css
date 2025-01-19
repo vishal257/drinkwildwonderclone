@@ -1,0 +1,30 @@
+
+.carousel-slider{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #FACAD1;
+
+  }
+
+.slick-dots li button::before{
+  font-size: 10px;
+}
+
+.slick-dots{
+  position: relative;
+}
+
+.slick-prev::before, .slick-next::before{
+  position: absolute;
+  font-size: 40px;
+}
+
+.slick-next::before{
+  position: absolute;
+  right: 5px;
+}
+.slick-prev::before{
+  position: absolute;
+  left: 5px;
+}

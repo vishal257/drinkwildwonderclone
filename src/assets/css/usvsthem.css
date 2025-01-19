@@ -1,0 +1,11 @@
+.table-border{
+    background-color: lightblue;
+    height: 320%;
+    width: 100%;
+    position: absolute;
+    top: -10%;
+    left: -1%;
+    z-index: -1;
+    border-radius: 22px;
+    box-shadow: blue 15px 15px;
+}

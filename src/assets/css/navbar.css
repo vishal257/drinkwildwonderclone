@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #FBF5E7;
+    z-index: 100;
+}
+
+.arrow:hover .arrow-hover{
+    transform: rotate(180deg);
+    transition: transform 0.3s ease;
+}
+
+.arrow-hover{
+    transform: rotate(0deg);
+    transition: transform 0.3s ease;
+}
+
