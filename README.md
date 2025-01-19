@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/vishal257/drinkwildwonderclone.git
    ```
 
 2. Navigate to the project directory:
@@ -54,9 +54,6 @@ The project is deployed on Vercel. To deploy your own version:
 2. Link your GitHub repository to Vercel.
 3. Configure the deployment settings and deploy the application.
 
-## Screenshots
-
-*Add screenshots here to showcase your application.*
 
 ## Feedback and Contact
 
