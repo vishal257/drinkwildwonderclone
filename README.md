@@ -57,7 +57,7 @@ The project is deployed on Vercel. To deploy your own version:
 
 ## Feedback and Contact
 
-Feel free to share your feedback or report issues. You can contact me at codemythought@gmail.com.
+Feel free to share your feedback or report issues. You can contact me at vishal.webengg@gmail.com.
 
 ---
 
