@@ -1,4 +1,4 @@
-import "../assets/css/Navbar.css";
+import "../assets/css/navbar.css";
 import logo from "../assets/img/navbar/logo.svg";
 import profile from "../assets/img/navbar/profile.svg";
 import cart from "../assets/img/navbar/cart.svg";
