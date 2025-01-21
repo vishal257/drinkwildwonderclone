@@ -83,7 +83,7 @@ const Navbar = () => {
         } transition-transform duration-300 ease-in-out`}
       >
         <div className="flex justify-end p-4">
-          <button onClick={toggleSidebar} className="">
+          <button onClick={toggleSidebar} className=" hover:bg-transparent">
           <RxCross2 />
           </button>
         </div>

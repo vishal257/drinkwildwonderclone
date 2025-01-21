@@ -24,13 +24,13 @@ const Order = () => {
     <div>
       <div className="flex w-full gap-4">
         <div className="flex items-center space-x-4 border-[3px] border-gray-600 rounded-lg md:px-6 md:py-3 px-4 py-2">
-          <button onClick={decreaseCount}>
+          <button onClick={decreaseCount} className=" hover:bg-transparent">
             <MinusIcon className="w-5 h-5 text-gray-600" />
           </button>
 
           <span className="text-lg font-semibold">{count}</span>
 
-          <button onClick={increaseCount}>
+          <button onClick={increaseCount} className=" hover:bg-transparent">
             <PlusIcon className="w-5 h-5 text-gray-600" />
           </button>
         </div>
